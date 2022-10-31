@@ -1,0 +1,19 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%
+    
+}
+.text{
+    margin-top: 2%;
+    margin-right: 40%;
+    margin-left: 40%;
+    text-align: center;
+    opacity: 80%;
+    font-size: xx-large;
+}
+
+.navbar{
+
+    color: black;
+}
